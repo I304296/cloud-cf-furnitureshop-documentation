@@ -21,9 +21,9 @@ A Global Account can contain one or more Subaccounts.
 
 ![screnshot alt text](images/lefttab.jpg)
 
-3.	Click on the link with text _TechEd2018_. 
+3.	Go to the subaccount trial. 
 
-![screnshot alt text](images/tilewithteched.jpg)
+![screnshot alt text](images/gcd_global_subaccount.png)
 
 4.	You will see two tiles for the two Subaccounts that are preconfigured for you:
 - OPP363 is a Subaccount in the SAP Cloud Platform Neo environment 
