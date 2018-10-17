@@ -35,7 +35,7 @@ API Endpoint: The API endpoint, or target URL, for your Cloud Foundry instance i
 
 6.	On the left, you will see variou menu options: _Oveview, Spaces, Connectivity, Security, Quota Plans, Usage Analytics and Members_. You may spend a few minutes to browse and get familiar with these areas. 
 
-![screnshot alt text](images/securityandquota.jpg)
+![screnshot alt text](images/gcd_cfsecurity_cockpit.png)
 
 For the current hands-on exercise, you may have to repeatedly visit the _Spaces_ link
 
@@ -50,46 +50,32 @@ You should see a single dev for you, we are going to use this default space for 
 
 ![screnshot alt text](images/gcd_spaceoverview.png)
 
-15.	On the left, you can see links for Applications, Services and other entities. By default, Applications option (the first in the list) should be selected and on the right side, you should see a list of deployed applicatoins. Since you may not have deployed any applications yet, this page may appear empty.
+9.	On the left, you can see links for Applications, Services and other entities. By default, Applications option (the first in the list) should be selected and on the right side, you should see a list of deployed applicatoins. Since you may not have deployed any applications yet, this page may appear empty.
 
-![screnshot alt text](images/securitygroups.jpg)
+![screnshot alt text](images/gcd_cfapps.png)
 
-16.	Click on the _Services_ link on the left panel to expand it.
-
-![screnshot alt text](images/clcickservices.jpg)
+10.	Click on the _Services_ link on the left panel to expand it.
 
 Under the _Services_ tab, you will see links for _Service Marketplace, Service Instances and User-Provided Services_. 
 
-17.	Click on _Service Marketplace_. This shows you all the services available for you to create instance of and consume them from the applications deployed in your _Space_. 
+11.	Click on _Service Marketplace_. This shows you all the services available for you to create instance of and consume them from the applications deployed in your _Space_. 
 
-![screnshot alt text](images/servicemarketplace.jpg)
+![screnshot alt text](images/gcd_spaceoverview.png.jpg)
 
 
-18.	Click on _Service Instances_. On this page, you will be able to see the instances of the services that you have created, and the applications  using those services. 
+12.	Click on _Service Instances_. On this page, you will be able to see the instances of the services that you have created, and the applications  using those services. 
 ![screnshot alt text](images/serviceinstance.jpg)
 
 Since you may not have yet created any Service instances, this page should also look empty at this point of time.
 
 User provided Service: User-provided service instances enable you to use services that are not available in the marketplace with your applications running in the Cloud Foundry environment. More information can be found in the [help guide](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/a44355e200b44b968d98ddaa42f07c3a.html?q=User-Provided%20Services) 
 
-19. By now, you should be familiar with the basic terminologies and the key areas of the SAP Cloud Platform cockpit you will visit in the current hands-on session. 
+13. By now, you should be familiar with the basic terminologies and the key areas of the SAP Cloud Platform cockpit you will visit in the current hands-on session. 
 
 In adition, the following steps should help you to understand how to quickly navigate to the different areas of the cockpit. 
 
-20. If you are already on a page with overview of your _Space_, you should see a hierarchy of clickable links on the top (bread crumbs for how you started with the Home page and entered your _Space_).
+14. If you are already on a page with overview of your _Space_, you should see a hierarchy of clickable links on the top (bread crumbs for how you started with the Home page and entered your _Space_).
 
-Click the link pointed out to go to your space.  
-![screnshot alt text](images/opp363space1.jpg)
-Note that the trailing number in the _Space_ name will be different for each participant.
-
-21. Click the link pointed out to go to your Subaccount (or the Organization in Cloud Foundry terminology).  
-![screnshot alt text](images/opp363subacct1.jpg)
-
-22. Click the link pointed out to go to your Global account.  
-![screnshot alt text](images/tech2018globalacct1.jpg)
-
-23. Click on the link pointed out to go to the Home page. 
-![screnshot alt text](images/home1.jpg)
 
 
 - - - -
