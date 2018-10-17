@@ -19,7 +19,7 @@ A Global Account can contain one or more Subaccounts.
 
 2.	On the left side you will see the regions on which SAP Cloud Platform is available, description of Services that can be used and different notifications.  
 
-![screnshot alt text](images/lefttab.jpg)
+![screnshot alt text](images/gcd_regions.png)
 
 3.	Go to the subaccount trial. 
 
@@ -60,11 +60,11 @@ Under the _Services_ tab, you will see links for _Service Marketplace, Service I
 
 11.	Click on _Service Marketplace_. This shows you all the services available for you to create instance of and consume them from the applications deployed in your _Space_. 
 
-![screnshot alt text](images/gcd_spaceoverview.png.jpg)
+![screnshot alt text](images/gcd_spaceoverview.png)
 
 
 12.	Click on _Service Instances_. On this page, you will be able to see the instances of the services that you have created, and the applications  using those services. 
-![screnshot alt text](images/serviceinstance.jpg)
+![screnshot alt text](images/gcd_cf_service_instances.png)
 
 Since you may not have yet created any Service instances, this page should also look empty at this point of time.
 
