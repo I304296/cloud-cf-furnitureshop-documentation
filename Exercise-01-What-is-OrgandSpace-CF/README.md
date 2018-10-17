@@ -10,9 +10,9 @@ Next Exercise: [Exercise 2 - Setup](../Exercise-02-Setup)
 In rest of the exercises, you will encounter various terms such as Global Account, Subaccount, Quota, Organization, Spaces, API endpoint, Applications and Services. The purpose of the current exercise is to help you get familiar with the terminology and the overall Account structure in SAP Cloud Platform. As such, the current exercise is not essential for completing the rest of the exercises. 
 
 
-1.	When you login to [SAP Cloud Platform cockpit](https://account.eu1.hana.ondemand.com/cockpit#/home/allaccounts) with your student credentials, you will see the home page which has a listing of Global Accounts. For the purpose of the current exercise, you will see a single Global Account listed - TechEd2018.
+1.	When you login to [SAP Cloud Platform cockpit](https://account.hanatrial.ondemand.com/) with your credentials, you will see the home page which has a listing of Global Accounts. For the purpose of the current exercise, we will use trial account.
 
-![screnshot alt text](images/globalaccts.jpg)
+![screnshot alt text](images/gcd global account.png)
 
 Global Accounts: When a Customer or Partner purchases a license for SAP Cloud Platform, they are provided with a Global Account, which represents the scope of the functionality and the level of support based on their entitlement to the platform resources and services. 
 A Global Account can contain one or more Subaccounts. 
