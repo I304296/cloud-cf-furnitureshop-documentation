@@ -9,9 +9,7 @@ Previous Exercise: [Exercise 01 What is Org and Space CF](../Exercise-01-What-is
 ## 1. SAP Web IDE Full-Stack
 The primary development tool for this hands-on is [SAP Web IDE Full Stack](https://help.sap.com/viewer/825270ffffe74d9f988a0f0066ad59f0/CF/en-US/c175c03da2534e4b9b3ea28687f6cb0a.html) - a browser-based IDE to easily develop, test, build, deploy, and extend role-based, consumer-grade apps for business users. For the sake of simplicity, we will refer to the 'SAP Web IDE Full-Stack' as 'Web IDE Full-stack' or simply 'Web IDE' in the current documentation.
 
-In order to use Web IDE Full-Stack, you would normally need to configure the service and assign appropriate authorizations, etc. For the purpose of this session, the user account provided to you by the instructor is preconfigured to access the Web IDE tool.
-
-Access Web IDE Full-Stack by simply [clicking here](https://webidecp-aevblwuamw.dispatcher.hana.ondemand.com/) and using the login information provided to you.
+In order to use Web IDE Full-Stack, you would normally need to configure the service and assign appropriate authorizations, etc. We can launch the Web IDE Full-Stack from Neo cockpit on your trial account.
 
 ## 2. Configure Cloud Foundry
 Before proceeding with development, we will need to configure our workspace for Cloud Foundry. We will need to assign a space for our development. In the assigned space, we then need to install the Builder i.e. The [MTA archive builder](https://help.sap.com/viewer/58746c584026430a890170ac4d87d03b/Cloud/en-US/ba7dd5a47b7a4858a652d15f9673c28d.html), which is a tool that builds a deployment-ready MTAR (.mtar file) from the artifacts of an MTA project according to the project’s MTA development descriptor (mta.yaml file).
