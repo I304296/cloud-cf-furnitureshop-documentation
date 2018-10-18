@@ -18,10 +18,10 @@ Before proceeding with development, we will need to configure our workspace for 
 
 1. In Web IDE Full Stack and _Click Preferences_ (the gear icon at the bottom on the left hand side or by following the menu option _Tools - Preferences_).
 2. Choose _Workspace Preferences - Cloud Foundry_<br>
-![CF Config](images/setup6_cf_config.JPG)
-3. Select the API Endpoint https://api.cf.eu10.hana.ondemand.com 
+![CF Config](images/gcd_wedide_cfsetup.PNG)
+3. Select the API Endpoint https://api.cf.us10.hana.ondemand.com 
 4. Enter your User Name and password when prompted to log on to Cloud Foundry
-4. Verify that the Organization is set to `TechEd2018_OPP363` and the Space is set to `OPP363_SPACE_XX` (where XX is the student number assigned to you)
+4. Verify that the Organization is set to `<Your user>trial_trial` and the Space is set to `dev` 
 5. Click _Install Builder_ (The install might take a few seconds)
 6. Click **_Save_** (The builder and API endpoint configuration will be lost if not saved).
 
