@@ -76,7 +76,7 @@ As in any environment it's important to save your work regularly to avoid losing
 Prerequisite:
 You can get the CF CLI (Command Line Interface) in the site https://github.com/cloudfoundry/cli
 Also you need to have the MTA plugin for CF CLI. You can download and install the same from the site: https://tools.hana.ondemand.com/#cloud
-![screnshot alt text](images/gcd_tools_hana.png)
+![screnshot alt text](images/gcd_tools_hana.PNG)
 
 Open a _Commnand Prompt_ and run the command `cf plugins` to verify that the Cloud Foundry CLI along with the required plugins **MtaPlugin** are installed on your image (command name _mta, deploy and bg-deploy_ should be available).
 
