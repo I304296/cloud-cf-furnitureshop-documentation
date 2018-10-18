@@ -43,7 +43,7 @@ We will be using additional Web IDE features that are not enabled by default. Th
 
 **TIP** It is advised to enable features one by one i.e. do NOT enable both features at once.
 
-## 4. Simplify the Copying of Code Blocks from GitHub
+## 4. (Optional) Simplify the Copying of Code Blocks from GitHub
 Many of the exercises you will complete during the course of this session will require you to copy large blocks of code from the README.md documentation files. To make this easier and reduce the risk of copy-paste errors in your code, you can install a simple add-on for Chrome called _Tampermonkey_ and then a GitHub-specific user script to provide you with a _copy to clipboard_ button for the code blocks in the exercises.
 
 1. Open your Chrome browser.
@@ -72,6 +72,12 @@ As in any environment it's important to save your work regularly to avoid losing
 ![autosave](images/setup10_save_prefs.JPG)
 
 ## 6. Verify installation of CLoud Foundy CLI
+
+Prerequisite:
+You can get the CF CLI (Command Line Interface) in the site https://github.com/cloudfoundry/cli
+Also you need to have the MTA plugin for CF CLI. You can download and install the same from the site: https://tools.hana.ondemand.com/#cloud
+(images/gcd_tools_hana.jpg)
+
 Open a _Commnand Prompt_ and run the command `cf plugins` to verify that the Cloud Foundry CLI along with the required plugins **MtaPlugin** are installed on your image (command name _mta, deploy and bg-deploy_ should be available).
 
 
