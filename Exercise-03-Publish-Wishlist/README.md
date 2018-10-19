@@ -229,7 +229,7 @@ We will now create an SAPUI5 application using WebIDE by consuming the OData ser
 1. Choose the following values:
     - App Type: `Standalone App`
     - Object Collection: `Wishlist`
-    - Object Collection ID: `Productid`
+    - Object Collection ID: `ProductID`
     - Object Title: `productName`
     - Object Numeric Attribute: `productPrice` 
 
