@@ -239,8 +239,7 @@ We will now create an SAPUI5 application using WebIDE by consuming the OData ser
 1. You will notice that the user interface module (ui) is created.
 1. Open the `mta.yaml` file.
 1. For the UI module, change the disk-quota and memory parameter from `256M` to `512M`
-1. Click _Save_.
-1. Open the file xs-security.json and edit the `xsappname` parameter to `furnitureshop_XX`, XX being the unique student number assigned to you, Click _Save_. 
+1. Click _Save_. 
 1. Download the [img.zip](img.zip) from this link to your student laptop, please remember where you have saved this file, you will upload it into WebIDE in the next step
 1. Expand the ui module and then expand the `webapp` folder, choose the `webapp` folder.
 1. Right-click _Import-File or Project_.  
