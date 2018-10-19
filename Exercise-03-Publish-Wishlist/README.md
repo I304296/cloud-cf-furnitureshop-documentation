@@ -178,14 +178,17 @@ We will create a new business application using Web IDE Full-Stack. We will defi
 1.	You can click on this link to run the application.
 1.	The application provides a link to the Odata service that is defined in our srv module.<br>
 
-    ![odata link](images/Exercise1_19_odata_link.jpg)
+    ![odata link](images/gcd_cf_java_odata_link.png)
 
 1. Click the link to the OData endpoint.  
     You will notice the collection `Wishlist` in the Odata service.<br>
 
-    ![odata](images/Exercise1_19a_odata_ep.jpg)
+    https://qmlzipqqj6be7pikfurnitureshop-srv.cfapps.us10.hana.ondemand.com/odata/v2/
+    ![odata link](images/gcd_java_odata1.png)
+    ![odata link](images/gcd_java_odata2.png)
 
-1.	Append `/Wishlist` to the end of the URL to view the Wishlist collection.
+1.	Append `/Wishlist?$format=json` to the end of the URL to view the Wishlist collection.
+    ![odata link](images/gcd_java_odata_wishlist.PNG)
 
 1.  The Web IDE Full-Stack tool is connected to your Cloud Foundry environment in the SAP Cloud Platform. When you build the database module or run the Java application in your project, the Web IDE Full-Stack tool is creating instances of backing services and applications in your _Space_ on the SAP Cloud Platform. To check, follow the following steps.
 
