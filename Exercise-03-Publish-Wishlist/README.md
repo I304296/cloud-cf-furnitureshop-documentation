@@ -178,14 +178,14 @@ We will create a new business application using Web IDE Full-Stack. We will defi
 1.	You can click on this link to run the application.
 1.	The application provides a link to the Odata service that is defined in our srv module.<br>
 
-    ![odata link](images/gcd_cf_java_odata_link.png)
+    ![odata link](images/gcd_cf_java_odata_link.PNG)
 
 1. Click the link to the OData endpoint.  
     You will notice the collection `Wishlist` in the Odata service.<br>
 
     https://qmlzipqqj6be7pikfurnitureshop-srv.cfapps.us10.hana.ondemand.com/odata/v2/
-    ![odata link](images/gcd_java_odata1.png)
-    ![odata link](images/gcd_java_odata2.png)
+    ![odata link](images/gcd_java_odata1.PNG)
+    ![odata link](images/gcd_java_odata2.PNG)
 
 1.	Append `/Wishlist?$format=json` to the end of the URL to view the Wishlist collection.
     ![odata link](images/gcd_java_odata_wishlist.PNG)
