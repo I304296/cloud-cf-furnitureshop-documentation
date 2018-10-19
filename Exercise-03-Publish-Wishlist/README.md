@@ -173,8 +173,6 @@ We will create a new business application using Web IDE Full-Stack. We will defi
 
     (Optionally you can login to the SAP Cloud Platform cockpit -> Applications and you will notice the java application being deployed.)
 
-    ![run console](images/Exercise1_18_run_console.jpg)
-
 1.	You can click on this link to run the application.
 1.	The application provides a link to the Odata service that is defined in our srv module.<br>
 
