@@ -471,13 +471,13 @@ We are now ready to build the project furnitureshop and deploy it to Cloud Found
 1. Confirm that a `.mtar` file has been created under the newly created `mta_archives` folder.
 1. Expand the `mta_archives` folder and right-click the `furnitureshop0.0.1.mtar` file.  Select _Deploy_ -> _Deploy to SAP Cloud Platform_.
 
-    ![Deploy mtar](images/Exercise2_18_deploy_mtar.JPG)
+    ![Deploy mtar](images/gcd_mtar_deploy.PNG)
 
 1. You may get a popup asking you to enter your credentials, please enter your id/password, then in the _Deploy to SAP Cloud Platform_ dialog, enter:
 
-    - Cloud Foundry API Endpoint: `https://api.cf.eu10.hana.ondemand.com`
-    - Organization: `TechEd2018_OPP363`
-    - Space: `<your space>`
+    - Cloud Foundry API Endpoint: `https://api.cf.us10.hana.ondemand.com`
+    - Organization: `<your id>trial_trial`
+    - Space: `dev`
 
     ![CF Endpoint](images/Exercise2_19_deploy_mtar_cf_endpoint.JPG)
 
