@@ -471,7 +471,7 @@ We are now ready to build the project furnitureshop and deploy it to Cloud Found
 1. Confirm that a `.mtar` file has been created under the newly created `mta_archives` folder.
 1. Expand the `mta_archives` folder and right-click the `furnitureshop0.0.1.mtar` file.  Select _Deploy_ -> _Deploy to SAP Cloud Platform_.
 
-    ![Deploy mtar](images/gcd_mtar_deploy.PNG)
+    ![Deploy mtar](images/gcd_mtar_deploy1.PNG)
 
 1. You may get a popup asking you to enter your credentials, please enter your id/password, then in the _Deploy to SAP Cloud Platform_ dialog, enter:
 
@@ -479,7 +479,7 @@ We are now ready to build the project furnitureshop and deploy it to Cloud Found
     - Organization: `<your id>trial_trial`
     - Space: `dev`
 
-    ![CF Endpoint](images/Exercise2_19_deploy_mtar_cf_endpoint.JPG)
+    ![Deploy mtar](images/gcd_mtar_deploy.PNG)
 
     Wait until the deployment is complete and ensure it was successful, meanwhile you can login to the cockpit to view the applications being deployed. Please do not click on your funitureshop application until the deployment has completed.
 
