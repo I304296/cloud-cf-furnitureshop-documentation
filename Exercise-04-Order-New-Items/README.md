@@ -48,13 +48,14 @@ The Cloud Connector is an optional on-premise component that is needed to integr
 
 Install Cloud Connector from https://tools.hana.ondemand.com/#cloud (This should be part of prerequisite setup)
 
-    ![account id](images/gcd_scc_setup.PNG)
+![backend odata](images/gcd_scc_setup.PNG)
+    
 
 1. Launch SAP Cloud Connector URL [https://localhost:8443](https://localhost:8443) and login with your Administrator credentials:
 
    - User: `Administrator`
-   - Password: <your password>
-    (images/gcd_scc1.PNG)
+   - Password: your password
+    ![backend odata](images/gcd_scc1.PNG)
 
 1. If you see any existing entires in the Subaccount Dashboard table, please delete these as they are left over from previous exercises
 1. For _Define Subaccount_ enter the following configuration:
