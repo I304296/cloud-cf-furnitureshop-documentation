@@ -507,7 +507,7 @@ Please make sure the deployment is complete. The next thing we will need to do i
 
    Your destination should now look like this:
 
-    ![destination get wish list](images/dest_getwishlist1.jpeg)
+    ![destination get wish list](images/gcd_dest1.PNG)
 
 1. Click on Save and add a second destination with the following values:
       
@@ -516,14 +516,14 @@ Please make sure the deployment is complete. The next thing we will need to do i
     | Name | `ONPREM_BACKEND`
     | Type | `HTTP`
     | Description | `Local Backend`
-    | Location ID | `OPP363-XX`  where XX is your two-digit student number<br>***Important***<br>This field value is case-sensitive and will only become visible ***after*** you have selected a Proxy Type of `OnPremise`
+    | Location ID | ``  
     | URL | `http://productbackend.com:8080`
     | Proxy Type | `OnPremise`
     | Authentication | `NoAuthentication`
 
 1. Your destination should now look like this:
 
-    ![destination](images/Exercise2_0_destination1.JPG)
+    ![destination](images/gcd_dest2.PNG)
 
     Click on Save
 
