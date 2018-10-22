@@ -115,10 +115,10 @@ Install Cloud Connector from https://tools.hana.ondemand.com/#cloud (This should
     ![check results](images/Exercise2_9_check_results.JPG)
 
 1. `Under Resources Accessible On productbackend.com:8080` section, click the `+` icon to add the resources under this system.
-1. Enter `/backend-odata/` under URL Path.
+1. Enter `/SampleProject2/` under URL Path.
 1. Select the option `Path and all Sub paths`.
 
-    ![check results](images/Exercise2_10_add_resource.JPG)
+    ![check results](images/gcd_scc_subpath.PNG)
 
 1. Click _Save_.
 1. You should notice that the Status is now Green.
