@@ -544,19 +544,16 @@ Please make sure the deployment is complete. The next thing we will need to do i
 
 1. Click on the srv application, then click on the link under Application Routes to launch the srv application
 
-    ![testingsrv0](images/Exercise2_0_testingsrv0.jpg)
+    ![testingsrv0](images/gcd_srv.PNG)
 
 1. You should now be able to see the URL to the ODATA service that the srv application has created.  On clicking the link you should now see a new collection `BackEndProductData`
+https://p2000552304trial-trial-dev-srv.cfapps.us10.hana.ondemand.com/odata/v2/CatalogService/BackEndProductData?$format=json
 
-    ![testingsrv1](images/Exercise2_0_testingsrv1.jpg)
-
-1. Append /BackEndProductData to the url to view the Collection
-
-    ![testingsrv2](images/Exercise2_0_testingsrv2.jpg)
+    ![testingsrv1](images/gcd_backenddata.PNG)
 
 1. To test the ui application, navigate to the wishlist application in the SAP Cloud Platform cockpit and launch the URL.  You will see a new tab showing the Backend Product information.  However, you will probably not see any ratings yet as this functionality will be added in the next exercise
 
-    ![testing](images/Exercise2_0_testingui.JPG)
+    ![testing](images/gcd_ui.PNG)
 
 - - - -
 © 2018 SAP SE
