@@ -46,24 +46,15 @@ We first need to deploy a pre-built Java application which will simulate our bac
 
 The Cloud Connector is an optional on-premise component that is needed to integrate on-demand applications running in the SAP Cloud Platform with customer services running in an on-premise system, and is the counterpart of SAP Cloud Platform Connectivity.
 
-In the case of the TechEd exercises, this component has already been installed.
+Install Cloud Connector from https://tools.hana.ondemand.com/#cloud (This should be part of prerequisite setup)
 
-1. Before we configure the SAP Cloud Connector, we will need to get our Subaccount ID for use during the configuration of the cloud connector.
+    ![account id](images/gcd_scc_setup.PNG)
 
-1. Login to your SAP Cloud Platform cockpit [TechEd 2018](https://account.hana.ondemand.com/cockpit#/globalaccount/8fd39023-a237-4d71-9b6a-ed9d1719d275/subaccounts)
-
-1. Click the ![i_link](images/Exercise2_ilink.jpeg) link on the Cloud Foundry subaccount tile (OPP363CF).
-
-    ![account id](images/Exercise2_3_CF_account_id.JPG)
-
-1. The subaccount ID (`dabec0d5-6df7-495d-9c96-f6b25dfd78a4`) will be displayed. Keep this subaccount ID for use in the cloud connector configuration.
-
-    ![account id](images/Exercise2_4_CF_account_id.JPG)
-
-1. Launch SAP Cloud Connector URL [https://localhost:8443](https://localhost:8443) and login with the credentials:
+1. Launch SAP Cloud Connector URL [https://localhost:8443](https://localhost:8443) and login with your Administrator credentials:
 
    - User: `Administrator`
-   - Password: `welcome`
+   - Password: <your password>
+    (images/gcd_scc1.PNG)
 
 1. If you see any existing entires in the Subaccount Dashboard table, please delete these as they are left over from previous exercises
 1. For _Define Subaccount_ enter the following configuration:
