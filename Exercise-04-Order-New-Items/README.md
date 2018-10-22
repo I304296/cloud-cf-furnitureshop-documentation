@@ -57,33 +57,32 @@ Install Cloud Connector from https://tools.hana.ondemand.com/#cloud (This should
    - Password: your password
     ![backend odata](images/gcd_scc1.PNG)
 
-1. If you see any existing entires in the Subaccount Dashboard table, please delete these as they are left over from previous exercises
+1. Add Subaccount from the SCC cockpit.
+![backend odata](images/gcd_scc2.PNG)
 1. For _Define Subaccount_ enter the following configuration:
 
     | Property | Value
     |---|---|
-    | Region Host | `cf.eu10.hana.ondemand.com`
-    | Subaccount | `<ID that you copied in step 4>`
-    | Display Name | `ProductData Connector`
+    | Region Host | `cf.us10.hana.ondemand.com`
+    | Subaccount | `<Subaccount ID Copy from Subaccount cockpit>` 
+    | Display Name | `Bootcamp Trial CF`
     | Login Email ID | `<your_login_email>`
     | Password | `<Your_Password>`
-    | Location ID | `OPP363-XX`  where XX is your two digit student number
-    | Description | `ProductData Connector`
+    | Location ID | `Student-XX`  where XX is your two digit student number
+    | Description | `Cloud Connector`
 
-    Note that the value of Location ID is case sensitive! For the current exercise, ensure that you have entered ***OPP*** in upper case characters, since we will be using exactly this string value elsewhere in the exercise.
+    Note that the value of Location ID is case sensitive! 
     
     Ignore the fields under the section HTTPS Proxy on the right side, leave them blank 
 
-    ![add subaccount](images/Exercise2_5_cc_add_subaccount.JPG)
+    ![add subaccount](images/gcd_scc_add_ac.PNG)
 
-    For the current hands-on, all participants are sharing a single SAP Cloud Platform subaccount. To disambiguate the SAP Cloud Connector, each participants provides a unique Location ID.
-
-    Location IDs are defined to identify a location of a cloud connector for a specific sub account. You can have multiple SAP Cloud Connectors configured to work with a single sub account identified by unique Location IDs
+    If in the current hands-on, all participants are sharing a single SAP Cloud Platform subaccount, then to disambiguate the SAP Cloud Connector, each participant needs to provide a unique Location ID.
 
 1. Click _Save_.
 1. Ensure that the Status under Tunnel Information is Connected. If you receive an error, recheck your Region, Subaccount and login information.
 
-    ![add subaccount](images/Exercise2_6_cc_subaccount_status.JPG)
+    ![add subaccount](images/gcd_scc_add_ac1.PNG)
 
 1. Now that we have configured the SAP Cloud Connector and connected it from our local laptop to our SAP Cloud Platform account, the next thing we need to do is to configure access to the backend system.
 1. In the SAP Cloud Connector UI, go to `Cloud To On-Premise` from the left-hand menu.
