@@ -31,13 +31,14 @@ We first need to deploy a pre-built Java application which will simulate our bac
 1. Tomcat bundle is available in the TechEd student image under D:\Files\Session\OPP363\apache-tomcat-9.0.11
 1. Navigate to the `bin` folder  
 1. Double Click on  startup.bat file. (this will launch a command prompt and start the tomcat server).
-1. Launch the URL [http://localhost:8080/backend-odata/Product.svc](http://localhost:8080/backend-odata/Product.svc).
+1. Launch the URL [http://localhost:8980/SampleProject2/odata.srv](http://localhost:8980/SampleProject2/odata.srv).
+<b>Note: the url of the on premise odata service can vary based on the Neo exercise</b>
 
-    ![backend odata](images/Exercise2_1_backend_odata.JPG)
+    ![backend odata](images/gcd_backend_odata1.PNG)
 
-1. Notice that the OData service exposes a collection called OnPremiseProductData. Append `/OnPremiseProductData` to the URL so you have [http://localhost:8080/backend-odata/Product.svc/OnPremiseProductData](http://localhost:8080/backend-odata/Product.svc/OnPremiseProductData).
+1. Notice that the OData service exposes a collection called OnPremiseProductData. Append `/OnPremiseProductDatas` to the URL so you have [http://localhost:8980/SampleProject2/odata.srv/OnPremiseProductDatas](http://localhost:8980/SampleProject2/odata.srv/OnPremiseProductDatas).
 
-    ![backend odata](images/Exercise2_2_backend_odata_collection.JPG)
+    ![backend odata](images/gcd_backend_odata.PNG)
 
 
 
