@@ -145,12 +145,11 @@ We will now build and deploy the application that has been built above. Please n
 
 3. In the popup that appears, please enter the following details and click on Deploy
 
-   ![Step Image](images/Exercise6_3-3_deploy_mtar_cf_endpoint.png)
-
+   
    ```
-   Cloud Foundry API Endpoint: https://api.cf.eu10.hana.ondemand.com
-   Organization: TechEd2018_OPP363
-   Space: <select your space from the drop down list>
+   Cloud Foundry API Endpoint: https://api.cf.us10.hana.ondemand.com
+   Organization: <Your User>trial_trial
+   Space: dev
    ```
 
 4. The `odata.js` file under the `odata` folder in our deployment will expect a destination by name `getWishList`. Note that we have already created this destination in Exercise
