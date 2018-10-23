@@ -43,7 +43,7 @@ We will need to create and bind an instance of the application logging service t
 2. From the application overview, click _Service Bindings_ on the left menu.
 3. Click _Bind Service_.
 
-![New Binding](images/Exercise3_2_service_bindings.JPG)
+![New Binding](images/gcd_logging_service.PNG)
 
 4. In the _Bind Service_ wizard, for _Choose Service Type_ select `Service from the catalog`.
 
