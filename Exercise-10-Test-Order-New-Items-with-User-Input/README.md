@@ -11,8 +11,6 @@ Franck is the retail category manager in a home furniture franchise. In the prev
 1. Launch SAP Cloud Platform Cockpit -> Navigate to your space -> Applications -> Choose ui
 2. Click on the link under Applciation route to launch the ui application
 
-![ui_app](ui_testing.jpg)
-
 3. Notice the Ratings field.
 
 4. Try choosing different products and view its ratings.
