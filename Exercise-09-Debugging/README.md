@@ -1,5 +1,5 @@
 - - - -
-Previous Exercise: [Exercise 08 Tweet Comments Backend](../Exercise-08-Tweet-Comments-Backend) Next Exercise: [Exercise-10 - Test Order New Items with User Input](../Exercise-10-Test-Order-New-Items-with-User-Input)
+Previous Exercise: [Exercise 08 Tweet Comments Backend](../Exercise-08-Tweet-Comments-Backend) Next Exercise: [Exercise 10 Blue Green Deployment of Comments and Ratings](../Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
 
 [Back to the Overview](../README.md)
 - - - -
@@ -87,6 +87,6 @@ Let us now clean up by reversing the changes we applied for the current exercise
 - - - -
 © 2018 SAP SE
 - - - -
-Previous Exercise: [Exercise 08 Tweet Comments Backend](../Exercise-08-Tweet-Comments-Backend) Next Exercise: [Exercise-10 - Test Order New Items with User Input](../Exercise-10-Test-Order-New-Items-with-User-Input)
+Previous Exercise: [Exercise 08 Tweet Comments Backend](../Exercise-08-Tweet-Comments-Backend) Next Exercise: [Exercise 10 Blue Green Deployment of Comments and Ratings](../Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
 
 [Back to the Overview](../README.md)
