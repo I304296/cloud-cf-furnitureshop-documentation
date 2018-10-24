@@ -157,9 +157,9 @@ We will now build and deploy the application that has been built above. Please n
 
    
     ```
-    Cloud Foundry API Endpoint: https://api.cf.eu10.hana.ondemand.com
-    Organization: TechEd2018_OPP363
-    Space: <select your space from the drop down list>
+    Cloud Foundry API Endpoint: https://api.cf.us10.hana.ondemand.com
+    Organization: <Your User>trial_trial
+    Space: dev
     ```
 5. Once your application is deployed launch the url for `ratings_frontend` app. Your app should look like shown in the [overview section](#overview).
 
