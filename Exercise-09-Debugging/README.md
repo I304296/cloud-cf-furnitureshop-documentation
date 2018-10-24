@@ -83,7 +83,7 @@ Let us now clean up by reversing the changes we applied for the current exercise
 ![screnshot alt text](images/Stop_Application.jpg)
 
 2. Start the tweet_comments applicaiton instance from the _SAP Cloud Platform cockpit_
-![screnshot alt text](images/Start_tweet_comments_app.jpg)
+
 - - - -
 © 2018 SAP SE
 - - - -
