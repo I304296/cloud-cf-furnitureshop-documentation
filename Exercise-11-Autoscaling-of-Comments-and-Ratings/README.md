@@ -59,10 +59,7 @@ We will configure the scaling manually in the SAP Cloud Platform Cockpit. PLease
 ![screnshot alt text](images/Exercise6_5_autoscaling.JPG).
 
 5.	Click _Instances_ on the left side.
-6.	Click _New Instance_.
-
-![screnshot alt text](images/Exercise6_5_createinstanceJPG.jpg).
-
+6.	Click _New Instance_
 7.	Finish configuration by accepting default values and clicking _Next_ on the subsequent screens
 8.	Enter the _instance name_ as `myautoscaling`.
 
