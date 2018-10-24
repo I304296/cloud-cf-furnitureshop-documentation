@@ -155,8 +155,7 @@ We will now build and deploy the application that has been built above. Please n
 
 4. In the popup that appears, enter the following details and click on Deploy
 
-   ![Step Image](images/Exercise7_4-4_app_endpoint.png)
-
+   
     ```
     Cloud Foundry API Endpoint: https://api.cf.eu10.hana.ondemand.com
     Organization: TechEd2018_OPP363
