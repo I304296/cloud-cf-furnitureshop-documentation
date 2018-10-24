@@ -154,12 +154,10 @@ We will now build and deploy the application that has been built above. Please n
 
 4. In the popup that appears, please enter the following details and click _Deploy_.
 
-   ![Step Image](images/Exercise8_5-4_cf_endpoints.png)
-
     ```
-      Cloud Foundry API Endpoint: https://api.cf.eu10.hana.ondemand.com
-      Organization: TechEd2018_OPP363
-      Space: <select your space from the drop down list>
+      Cloud Foundry API Endpoint: https://api.cf.us10.hana.ondemand.com
+      Organization: <Your user>trial_trial
+      Space: dev
     ```
 
 5. Once your application is deployed launch the url for ratings_frontend app. As `tweet_comments` is a headless service and is consumed by the `ratings` service.
