@@ -84,9 +84,7 @@ To engage other customers and seek greater customer input for rating the items, 
 - [Exercise 07 - Comments and Ratings Frontend](Exercise-07-Comments-and-Ratings-Frontend)
 - [Exercise 08 - Tweet Comments Backend](Exercise-08-Tweet-Comments-Backend)
 - [Exercise 09 - Debugging](Exercise-09-Debugging)
-- [Exercise 10 - Test Order New Items with User Input](Exercise-10-Test-Order-New-Items-with-User-Input)
-- [Exercise 11 - Autoscaling of Comments and Ratings](Exercise-11-Autoscaling-of-Comments-and-Ratings)
-- [Exercise 12 - Blue-Green Deployment of Comments and Ratings](Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
+- [Exercise 10 - Blue-Green Deployment of Comments and Ratings](Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
 
 
 
