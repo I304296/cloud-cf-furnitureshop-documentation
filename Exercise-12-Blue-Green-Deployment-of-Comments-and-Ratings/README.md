@@ -1,5 +1,5 @@
 - - - -
-Previous Exercise: [Exercise 11-Autoscaling of Comments and Ratings](../Exercise-11-Autoscaling-of-Comments-and-Ratings)
+Previous Exercise: [Exercise-09 - Debugging](../Exercise-09-Debugging)
 
 [Back to the Overview](../README.md)
 - - - -
@@ -184,6 +184,6 @@ knows that her reviews are being posted on twitter.
 © 2018 SAP SE
 - - - -
 
-Previous Exercise: [Exercise 11-Autoscaling of Comments and Ratings](../Exercise-11-Autoscaling-of-Comments-and-Ratings)
+Previous Exercise: [Exercise-09 - Debugging](../Exercise-09-Debugging)
 
 [Back to the Overview](../README.md)
