@@ -1,10 +1,8 @@
 - - - -
-Previous Exercise: [Exercise 10-Test Order New Items with User Input](../Exercise-10-Test-Order-New-Items-with-User-Input) Next Exercise: [Exercise 12 Blue Green Deployment of Comments and Ratings](../Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
-
 [Back to the Overview](../README.md)
 - - - -
 
-# Exercise 11 - Autoscaling of ratings backend app
+# Extra Exercise - Autoscaling of ratings backend app
 
 Scaling of an application is adding more resources (Memory, CPU, Disk) to it and distributing the load between multiple servers. Two types of scaling that are available are:
 - Scaling Up/Vertical Scaling: change the disk and memory quota.
@@ -158,6 +156,5 @@ For more information on parametes refer our [help guide](https://help.sap.com/vi
 - - - -
 © 2018 SAP SE
 - - - -
-Previous Exercise: [Exercise 10-Test Order New Items with User Input](../Exercise-10-Test-Order-New-Items-with-User-Input) Next Exercise: [Exercise 12 Blue Green Deployment of Comments and Ratings](../Exercise-12-Blue-Green-Deployment-of-Comments-and-Ratings)
 
 [Back to the Overview](../README.md)
