@@ -31,11 +31,11 @@ This exercise demonstrates how to debug Node.js applications.  You can check out
 6. Let us test the overall product rating functionality using the newly created instance of the tweet_comments applications. In the _cockpit_, locate the `ratings_frontend` application and click on it. On the _Overview_ page for the application, click on the URL displayed under the _Application Routes_.
 
  * Select a product from the list and navigate to the `Rate Item` tab. Give the product a rating and a comment and click on the _Submit_ button. Note that your screen will look different based on the product you selected for rating.
-   ![Step Image](images/Exercise8_5-6_provide_rating.png)
+   ![Step Image](images/Exercise8_5-6_provide_rating1.png)
 
  * You can also check the review feeds for a particular product.
 
-   ![Step Image](images/Exercise8_5-6_check_comments.png)
+   ![Step Image](images/Exercise8_5-6_check_comments1.png)
 
 7. In your browser, go to this [twitter handle](https://twitter.com/sapfurnishop) to see your comment posted as a tweet.
 
