@@ -4,7 +4,7 @@ Previous Exercise: [Exercise-09 - Debugging](../Exercise-09-Debugging)
 [Back to the Overview](../README.md)
 - - - -
 
-# Exercise 12 - Blue Green Deployment of Comments and Ratings
+# Exercise 10 - Blue Green Deployment of Comments and Ratings
 In this exercise you will learn about Blue Green deployment of multi-target applications (MTA).
 ## What is Blue Green deployment?
 Blue-Green deployment is a technique that reduces downtime and risk by running two identical production environments called Blue and Green.
