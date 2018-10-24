@@ -167,7 +167,7 @@ We will now build and deploy the application that has been built above. Please n
 
 7. Give the product a rating and comment and click on submit, as shown in the picture below.
 
-    ![Step Image](images/Exercise7_4-7-1_rating_view.png)
+    ![Step Image](images/Exercise7_4-7-1_rating_view1.png)
 
     This will add a review to the product as show below.
 
