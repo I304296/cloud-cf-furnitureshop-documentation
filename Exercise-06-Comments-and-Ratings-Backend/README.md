@@ -160,7 +160,7 @@ We will now build and deploy the application that has been built above. Please n
 
 6. Once the deployment is successful, click on the url below _Application Routes_. The application opens in a new tab.
 
-   ![Step Image](images/Exercise6_3-6_check_data.png)
+   
 
 - - - -
 © 2018 SAP SE
