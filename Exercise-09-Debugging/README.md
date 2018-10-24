@@ -58,7 +58,7 @@ This exercise demonstrates how to debug Node.js applications.  You can check out
 ## 3. Debug the application instance
 We are now ready to debug the application instance running on the SAP Cloud Platform.
 1.	Once again, use the _ratings_frontend_ application to submit rating and comment for any of the products.  You may see a notification (typically in the bottom right corner) that the Debugger has suspended the application.
-  ![Step Image](images/Exercise8_5-6_provide_rating.png)
+  
     Note that the frontend application has submitted the rating and comment successfully. We have attached the Debugger to the tweet_comment application, which is watching for the submitted comments on a RabbitMQ channel and is publishing the comments via tweets. Since the Debugger has suspended the tweet_comments application, we will not see any tweet going out for the comment you have submitted just now, until the Debugger resumes the application.
 
 2.	Switch the Web IDE and notice that the Debugger pane is now showing the details of the suspended application such as the _Call Stack_ and values of the _Variables_.
