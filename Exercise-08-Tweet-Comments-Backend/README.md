@@ -172,9 +172,6 @@ We will now build and deploy the application that has been built above. Please n
 
 7. In your browser, go to this [twitter handle](https://twitter.com/sapfurnishop) to see your comment posted as a tweet.
 
-   ![Step Image](images/Exercise8_5-7_review_tweet.png)
-
-
     Twitter handle URL: https://twitter.com/sapfurnishop
 
 - - - -
