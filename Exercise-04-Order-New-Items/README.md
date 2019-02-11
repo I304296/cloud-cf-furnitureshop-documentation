@@ -33,6 +33,7 @@ We first need to deploy a pre-built Java application which will simulate our bac
 1. Double Click on  startup.bat file. (this will launch a command prompt and start the tomcat server).
 1. Launch the URL [http://localhost:8980/SampleProject2/odata.srv](http://localhost:8980/SampleProject2/odata.srv).
 <b>Note: the url of the on premise odata service can vary based on the Neo exercise</b>
+<b>SampleProject2 source code can be found here ![SampleProject2.zip](./SampleProject2.zip) <b>
 
     ![backend odata](images/gcd_backend_odata1.PNG)
 
